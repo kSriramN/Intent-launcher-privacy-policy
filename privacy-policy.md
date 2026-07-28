@@ -1,0 +1,56 @@
+# Privacy Policy for IntentLauncher
+
+**Last updated:** July 28, 2026
+
+This Privacy Policy describes how IntentLauncher ("the App", "we", "our") handles information when you use our Android application.
+
+## Summary
+
+IntentLauncher is a home screen launcher app. **All data used by the App stays on your device.** We do not collect, transmit, sell, or share any personal data with us or any third party. There are no analytics services, advertising SDKs, or cloud backends integrated into this App.
+
+## Information the App Accesses
+
+To function as a launcher, the App accesses the following on-device information. None of it ever leaves your device.
+
+### 1. List of installed apps
+The App needs to know which apps are installed on your device in order to display them in the app drawer, the "Essential Apps" quick grid, the "Distracting Apps" list, and the Quick Row. This is done using Android's standard package-query APIs and is used only to build these in-app lists. This information is never transmitted anywhere.
+
+### 2. App usage statistics
+The App requests the **Usage Access** permission (`PACKAGE_USAGE_STATS`) to determine which of your apps are used most frequently, so it can show a "Frequently Used" section in the All Apps screen. This usage data is read on-device only, used to sort/display app suggestions, and is never stored outside your device or transmitted to us or anyone else.
+
+### 3. Your app preferences and settings
+Choices you make in the App — such as which apps you mark as "Essential," "Distracting," or add to your "Quick Row," your daily goals, and other settings — are stored locally on your device using Android's standard local storage (SharedPreferences). This data is never uploaded, backed up to a server we control, or shared with third parties.
+
+## What We Do NOT Do
+
+- We do not collect or transmit any personal data to our own servers.
+- We do not use analytics, crash-reporting, or advertising SDKs.
+- We do not share, sell, or rent any information to third parties.
+- We do not access your contacts, messages, call logs, camera, microphone, or files, except where the App directly launches another app you've chosen to open (e.g. tapping "Call" opens your phone app, tapping "Camera" opens your camera app) — control of that action and any data involved belongs entirely to the app you launched, not to IntentLauncher.
+
+## Permissions Used
+
+| Permission | Purpose |
+|---|---|
+| Usage Access (`PACKAGE_USAGE_STATS`) | To determine frequently used apps, shown locally in the app drawer. Never transmitted. |
+| Query all packages (`<queries>` declaration) | To list installed apps so they can be launched from the home screen, drawer, and quick-launch rows. |
+
+You can review or revoke the Usage Access permission at any time via **Android Settings → Apps → Special app access → Usage access**. If revoked, some app-sorting features (like "Frequently Used") will stop working, but the App will continue to function as a launcher.
+
+## Data Storage and Security
+
+All preferences and settings are stored locally in your device's app-private storage, which is sandboxed by Android and inaccessible to other apps. Uninstalling the App removes this data from your device.
+
+## Children's Privacy
+
+The App does not knowingly collect any information from anyone, including children, since it does not collect or transmit data at all. The App may be used by anyone able to operate an Android device.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the App's functionality. Any changes will be posted at this same URL with an updated "Last updated" date.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact:
+
+**Email:** nagarajusagar007@gmail.com
