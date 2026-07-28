@@ -53,4 +53,4 @@ We may update this Privacy Policy from time to time to reflect changes in the Ap
 
 If you have any questions about this Privacy Policy, please contact:
 
-**Email:** nagarajusagar007@gmail.com
+**Email:** nagaraju.sagar007@gmail.com
